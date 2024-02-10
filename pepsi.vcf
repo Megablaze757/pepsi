@@ -1,0 +1,36 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:;Pepsi;; ;
+FN: Pepsi
+ORG:#Thirstyformore
+COMPANY:#Thirstyformore
+TITLE:
+
+ADR;CHARSET=UTF-8;TYPE=WORK:;;;New York;;;
+TEL;TYPE=Work,pref:
+TEL;CELL;TYPE=Mobile,VOICE:
+TEL;TYPE=WORK,VOICE:
+
+TEL;TYPE=Work,Fax:
+TEL;TYPE=Home,VOICE:
+TEL;TYPE=sms:
+URL;TYPE=Messenger:
+TEL;TYPE=SIGNAL:
+EMAIL;TYPE=Email:concierge@ruuby.com
+URL;TYPE=Digital Business Card:
+
+
+URL;TYPE=Location:
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-100845098
+URL;TYPE=Website:https://ruuby.com
+URL;TYPE=Calendar:
+URL;TYPE=WhatsApp:
+
+
+URL;TYPE=Instagram:https://instagram.com/ruubyapp
+
+PHOTO;ENCODING=b:
+NOTE;CHARSET=UTF-8:Pepsi, a global beverage icon, is renowned for its refreshing and diverse lineup of carbonated and non-carbonated drinks
+
+END:VCARD
